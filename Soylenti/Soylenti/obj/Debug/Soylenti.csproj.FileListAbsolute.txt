@@ -1,0 +1,15 @@
+C:\Users\Emre\source\repos\Soylenti\Soylenti\bin\Debug\Soylenti.exe.config
+C:\Users\Emre\source\repos\Soylenti\Soylenti\bin\Debug\Soylenti.exe
+C:\Users\Emre\source\repos\Soylenti\Soylenti\bin\Debug\Soylenti.pdb
+C:\Users\Emre\source\repos\Soylenti\Soylenti\obj\Debug\Soylenti.csproj.AssemblyReference.cache
+C:\Users\Emre\source\repos\Soylenti\Soylenti\obj\Debug\Soylenti.Form1.resources
+C:\Users\Emre\source\repos\Soylenti\Soylenti\obj\Debug\Soylenti.Properties.Resources.resources
+C:\Users\Emre\source\repos\Soylenti\Soylenti\obj\Debug\Soylenti.csproj.GenerateResource.cache
+C:\Users\Emre\source\repos\Soylenti\Soylenti\obj\Debug\Soylenti.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\Soylenti\Soylenti\obj\Debug\Soylenti.exe
+C:\Users\Emre\source\repos\Soylenti\Soylenti\obj\Debug\Soylenti.pdb
+C:\Users\Emre\source\repos\Soylenti\Soylenti\obj\Debug\Soylenti.Form2.resources
+C:\Users\Emre\source\repos\Soylenti\Soylenti\bin\Debug\soylenti.accdb
+C:\Users\Emre\source\repos\Soylenti\Soylenti\obj\Debug\Soylenti.Form3.resources
+C:\Users\Emre\source\repos\Soylenti\Soylenti\obj\Debug\Soylenti.Form4.resources
+C:\Users\Emre\source\repos\Soylenti\Soylenti\obj\Debug\Soylenti.Form5.resources
